@@ -3,6 +3,11 @@ This small jQuery plugin simply animates the specified image file with a mosaic 
 
 ![Mosaic Example](img/mario.gif)
 
+## Requirements
+
+* jQuery
+* a browser supporting canvas element (any recent version of IE/FF/Chrome/Safari will have canvas support)
+
 ## Usage
 
     jQuery.('#myImage').mosaic({
@@ -11,4 +16,4 @@ This small jQuery plugin simply animates the specified image file with a mosaic 
 
 ## Demo
 
-[Demo](http://www.githubio.com/warpdesion/jquery-mosaic/index.html "Demo")
+Watch SuperMario World with mosaic effect in all its glory [here](http://warpdesign.github.io/jquery-mosaic/index.html "Demo") ;)
