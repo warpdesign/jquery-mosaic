@@ -10,7 +10,7 @@ This small jQuery plugin simply animates the specified image file with a mosaic 
 
 ## Usage
 
-    jQuery.('#myImage').mosaic({
+    jQuery('#myImage').mosaic({
         repeat:true
     });
 
